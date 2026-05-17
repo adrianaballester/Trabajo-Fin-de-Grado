@@ -19,7 +19,6 @@ El código principal está en el cuaderno Jupyter Notebook:
 
 - `TFG.ipynb` – Cuaderno con el código final completo.
 - `README.md` – Este archivo.
-- (Si se incluyen otros: `requirements.txt`, `data/`, `images/`, etc., añádelos aquí)
 
 ## Datos
 
